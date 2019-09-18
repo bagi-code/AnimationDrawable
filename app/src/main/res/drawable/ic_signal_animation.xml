@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/ic_signal_cellular_0_bar_black_24dp"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/ic_signal_cellular_1_bar_black_24dp"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/ic_signal_cellular_2_bar_black_24dp"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/ic_signal_cellular_3_bar_black_24dp"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/ic_signal_cellular_4_bar_black_24dp"
+        android:duration="500" />
+</animation-list>
